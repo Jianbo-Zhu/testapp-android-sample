@@ -1,4 +1,4 @@
-image: openjdk:8-jdk
+image: openjdk:11.0.14.1-oraclelinux8
 
 variables:
   ANDROID_COMPILE_SDK: "28"
